@@ -1,0 +1,88 @@
+[
+    {
+        "image": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?size=626&ext=jpg&ga=GA1.2.1436565612.1673088567&semt=sph",
+        "name": "Robi Chowdhury",
+        "email": "robi@gmail.com",
+        "role": "seller",
+        "rating": "5"
+    },
+    {
+        "image": "https://img.freepik.com/free-photo/pretty-smiling-joyfully-female-with-fair-hair-dressed-casually-looking-with-satisfaction_176420-15187.jpg?w=900&t=st=1687864268~exp=1687864868~hmac=cde7f6950c3590ddea25bb3d9d5ae8645af0e92777e766aaaf9ebd089cc1a8df",
+        "name": "Rabeya Begum",
+        "email": "rabeya@gmail.com",
+        "role": "seller",
+        "rating": "4"
+    },
+    {
+        "image": "https://img.freepik.com/free-photo/handsome-bearded-businessman-rubbing-hands-having-deal_176420-18778.jpg?w=900&t=st=1687863726~exp=1687864326~hmac=98096bc72c2b680af08f7ca2576fc1fe7fa13f3e5a872f0cfb185df02f3fe695",
+        "name": "Mehedi Hasan",
+        "email": "mehedi@gmail.com",
+        "role": "seller",
+        "rating": "5"
+    },
+    {
+        "image": "https://img.freepik.com/free-photo/happiness-wellbeing-confidence-concept-cheerful-attractive-african-american-woman-curly-haircut-cross-arms-chest-self-assured-powerful-pose-smiling-determined-wear-yellow-sweater_176420-35063.jpg?w=900&t=st=1687864310~exp=1687864910~hmac=a0dcedab8a2112e0dbadb0d5faa10f93d1f3cf0309589808794878dd6354b5b1",
+        "name": "Shamima Akter",
+        "email": "shamima@gmail.com",
+        "role": "seller",
+        "rating": "4"
+    },
+    {
+        "image": "https://img.freepik.com/free-photo/man-isolated-showing-emotions-end-gestures_1303-30095.jpg?w=900&t=st=1687863778~exp=1687864378~hmac=1871e6f3ff8009089e04b5bd016c005f89d1e312c31bb6dd26f7e1d994f3ff26",
+        "name": "Arif Khan",
+        "email": "arif@gmail.com",
+        "role": "seller",
+        "rating": "5"
+    },
+    {
+        "image": "https://img.freepik.com/free-photo/portrait-successful-man-having-stubble-posing-with-broad-smile-keeping-arms-folded_171337-1267.jpg?w=900&t=st=1687863822~exp=1687864422~hmac=9b4d90c975ed6b1d3dde0dd7d0c673899fd832534e64c7b1061651322d242225",
+        "name": "Sohel Ahmed",
+        "email": "sohel@gmail.com",
+        "role": "seller",
+        "rating": "5"
+    },
+    {
+        "image": "https://img.freepik.com/free-photo/mand-holding-cup_1258-340.jpg?w=900&t=st=1687863918~exp=1687864518~hmac=4341c25b6294b8044ff7afae8be3a0e3569c1a2c2b03f3887e59073b3f357220",
+        "name": "Sabbir",
+        "email": "sabbir@gmail.com",
+        "role": "seller",
+        "rating": "4"
+    },
+    {
+        "image": "https://img.freepik.com/free-photo/newcomer-get-know-teammates-pleased-good-looking-businesswoman-transparent-glasses-blue-collar-shirt-smiling-broadly-assuring-good-quality-product-gray-wall_176420-25024.jpg?w=900&t=st=1687864404~exp=1687865004~hmac=98b03420318ccf128b865a775004e1ecf602796f979b654b9676ec79abe6f0ee",
+        "name": "Mousumi Khan",
+        "email": "mousumi@gmail.com",
+        "role": "seller",
+        "rating": "5"
+    },
+    {
+        "image": "https://img.freepik.com/free-photo/african-american-business-man_1303-10337.jpg?w=900&t=st=1687863961~exp=1687864561~hmac=c7b9d2b8abbd23f147beedc4b29ce72f5f69e598735f00fd6167c1cbf1e10a92",
+        "name": "Habib Chowdhury",
+        "email": "habib@gmail.com",
+        "role": "seller",
+        "rating": "5"
+    },
+    {
+        "image": "https://img.freepik.com/free-photo/smiling-young-man-with-crossed-arms-outdoors_1140-255.jpg?w=740&t=st=1687864029~exp=1687864629~hmac=94eec60d3ba4c8b014c3debf99cf0b0d5defe369f996d87f8e08025483d1ffaf",
+        "name": "Shakil Ahmed",
+        "email": "shakil@gmail.com",
+        "role": "seller",
+        "rating": "4"
+    },
+    {
+        "image": "https://img.freepik.com/free-photo/happy-confident-male-entrepreneur-with-postive-smile-has-beard-mustache-keeps-arms-folded-being-high-spirit-after-successful-meeting-with-partners-poses-against-white-wall-dressed-casually_273609-16228.jpg?w=900&t=st=1687864073~exp=1687864673~hmac=0966eccc732c7329843c49c3fe1c542aaab3da93811068e35f38320de384fd09",
+        "name": "Oli Ahmad",
+        "email": "oli@gmail.com",
+        "role": "seller",
+        "rating": "5"
+    },
+    {
+        "image": "https://img.freepik.com/free-photo/handsome-corporate-man-real-estate-agent-assistant-smiling-hold-hands-together-how-may-i-help-you-smiling-friendly-polite-assist-customer-white-background_176420-45257.jpg?w=900&t=st=1687864120~exp=1687864720~hmac=44980720cafef74bfe5961c79e13dc50f23be126a2c9d4769637020ee9ea0568",
+        "name": "K M Asad",
+        "email": "asad@gmail.com",
+        "role": "seller",
+        "rating": "5"
+    }
+    
+    
+]
